@@ -8,6 +8,7 @@
     + course.entity
         + Course.java
         + MyError.java
+        + CourseNotFoundException
     + course.service
         + CourseService.java
     + course.view
