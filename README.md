@@ -20,6 +20,7 @@
         + add.ftl
         + findbyid.ftl
         + result.ftl
-+ src/test/java/course/test
-        +CourseControllerTest.java
-        +CourseServiceTeest.java
++ src
+    + test/java/course/test
+        + CourseControllerTest.java
+        + CourseServiceTest.java
